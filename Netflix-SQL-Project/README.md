@@ -1,27 +1,39 @@
-# Amit Aman — Data Analyst Portfolio
+# Netflix Data Analysis — SQL Project
 
-Welcome to my Data Analyst portfolio.
+## Project Overview
+This project analyzes Netflix movies and TV shows using SQL to generate meaningful insights from the Netflix dataset.
 
-## Skills
-- Microsoft Excel
+## Tools Used
+- MySQL
 - SQL
-- Power BI
 - Data Analysis
-- DAX
 
-## Projects
+## Key Analysis
+- Movies vs TV Shows
+- Content by country
+- Content by year
+- Popular genres
+- Ratings distribution
+- Top directors and actors
+- Movie and TV Show trends
 
-### 1. Sales Analysis Dashboard — Power BI
-Interactive dashboard for analyzing sales, revenue, profit and business performance.
+## SQL Concepts Used
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- COUNT
+- DISTINCT
+- CASE
+- Aggregate Functions
+- String Functions
+- JOINs
+- Subqueries
 
-### 2. SQL Data Analysis Project
-SQL-based analysis using queries to extract insights from business data.
+## Objective
+The objective of this project is to demonstrate practical SQL and data analysis skills by analyzing a real-world Netflix dataset and extracting useful business insights.
 
-### 3. Excel Dashboard Project
-Interactive Excel dashboard created for data analysis and reporting.
+## Author
+**Amit Aman**
 
-## Certifications
-- Excel Dashboard for Beginners — Simplilearn
-
-## Contact
-LinkedIn: Amit Aman
+Data Analyst | SQL | Power BI | Excel
